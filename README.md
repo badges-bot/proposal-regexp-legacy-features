@@ -1,5 +1,7 @@
 # Legacy RegExp features in JavaScript
 
+![Stage 3](https://badges.aleen42.com/src/tc39_4.svg)
+
 ## Current status
 
 ECMAScript proposal at stage 3 of the process, see https://github.com/tc39/proposals
